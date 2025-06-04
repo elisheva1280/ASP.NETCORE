@@ -1,0 +1,31 @@
+[
+    {
+        "NameOfWorker" : "yoram",
+        "id" :105,
+        "hours":5,
+        "Password": "123456",
+        "role" : "Admin"
+    },
+    {
+        "NameOfWorker" : "s",
+        "id" :105,
+        "hours":5,
+        "Password": "123456",
+        "role" : "Admin"
+    },
+    {
+        "NameOfWorker" : "0",
+        "id" :105,
+        "hours":5,
+        "Password": "0",
+        "role" : "Admin"
+    },
+    {
+        "NameOfWorker" : "a",
+        "id" :105,
+        "hours":5,
+        "Password": "a",
+        "role" : "Admin"
+
+    }
+]

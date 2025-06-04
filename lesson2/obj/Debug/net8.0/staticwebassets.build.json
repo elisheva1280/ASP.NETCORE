@@ -1,11 +1,331 @@
 {
   "Version": 1,
-  "Hash": "0xcjsLv9lPun8P5H6OhQ99bKC+X3AAPlG0RxvmdQ56Y=",
+  "Hash": "owv1MG0+CKhxX36Ccgn5Wmp6jvAZISaBG9g5sT103JI=",
   "Source": "lesson2",
   "BasePath": "_content/lesson2",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "lesson2\\wwwroot",
+      "Source": "lesson2",
+      "ContentRoot": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\",
+      "BasePath": "_content/lesson2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\css.css",
+      "SourceId": "lesson2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\",
+      "BasePath": "_content/lesson2",
+      "RelativePath": "css#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cm3mljmzga",
+      "Integrity": "LMO1Hmc+kPXFex0dkkR8Vb2IdEPMcXqEhZuhoDunvY0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css.css"
+    },
+    {
+      "Identity": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\index.html",
+      "SourceId": "lesson2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\",
+      "BasePath": "_content/lesson2",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w3grhqbuv6",
+      "Integrity": "TBPk7HDNX/gxAE30kQ2gQD8GhZMMFUOgx1WMg9XiX0E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\js\\pizza.js",
+      "SourceId": "lesson2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\",
+      "BasePath": "_content/lesson2",
+      "RelativePath": "js/pizza#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n0kgpirsbi",
+      "Integrity": "V7rUou8xfaEUZRRdknZH7YJFibfzBKeot6+kTAXxdgU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pizza.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css.cm3mljmzga.css",
+      "AssetFile": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\css.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LMO1Hmc+kPXFex0dkkR8Vb2IdEPMcXqEhZuhoDunvY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 17:28:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cm3mljmzga"
+        },
+        {
+          "Name": "label",
+          "Value": "css.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LMO1Hmc+kPXFex0dkkR8Vb2IdEPMcXqEhZuhoDunvY0="
+        }
+      ]
+    },
+    {
+      "Route": "css.css",
+      "AssetFile": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\css.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LMO1Hmc+kPXFex0dkkR8Vb2IdEPMcXqEhZuhoDunvY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 17:28:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LMO1Hmc+kPXFex0dkkR8Vb2IdEPMcXqEhZuhoDunvY0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TBPk7HDNX/gxAE30kQ2gQD8GhZMMFUOgx1WMg9XiX0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 15:03:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TBPk7HDNX/gxAE30kQ2gQD8GhZMMFUOgx1WMg9XiX0E="
+        }
+      ]
+    },
+    {
+      "Route": "index.w3grhqbuv6.html",
+      "AssetFile": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TBPk7HDNX/gxAE30kQ2gQD8GhZMMFUOgx1WMg9XiX0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 15:03:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3grhqbuv6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TBPk7HDNX/gxAE30kQ2gQD8GhZMMFUOgx1WMg9XiX0E="
+        }
+      ]
+    },
+    {
+      "Route": "js/pizza.js",
+      "AssetFile": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\js\\pizza.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7rUou8xfaEUZRRdknZH7YJFibfzBKeot6+kTAXxdgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 16:03:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7rUou8xfaEUZRRdknZH7YJFibfzBKeot6+kTAXxdgU="
+        }
+      ]
+    },
+    {
+      "Route": "js/pizza.n0kgpirsbi.js",
+      "AssetFile": "E:\\להעתיק 2605\\finalApi\\WebApi\\lesson2\\wwwroot\\js\\pizza.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7rUou8xfaEUZRRdknZH7YJFibfzBKeot6+kTAXxdgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 16:03:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0kgpirsbi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/pizza.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7rUou8xfaEUZRRdknZH7YJFibfzBKeot6+kTAXxdgU="
+        }
+      ]
+    }
+  ]
 }

@@ -3,6 +3,9 @@
   <ItemGroup>
     
     <ProjectReference Include="..\MyModelsLib\MyModelsLib.csproj" />
+    
+    <ProjectReference Include="..\MyFileServiceLib\MyFileServiceLib.csproj" />
+    
   </ItemGroup>
 
   <PropertyGroup>

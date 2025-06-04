@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/pizza.js"></script>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <!-- <button id="addPizzaButton">ADD PIZZA</button> -->
+    
+<div id="pizzaFormContainer" class="hidden">
+    <div class="from-container">
+        <h1>PIZZA</h1>
+        <label for="id">ID</label>
+        <input id="id" type="text" placeholder="enter pizza id">
+        <label for="name">pizza name</label>
+        <input id="name" type="text" placeholder="enter pizza name">
+        <label for="gluten">if gluten</label>
+        <input id="gluten" type="text" placeholder="enter true/false if the pizza have gluten">
+        <button onclick="addPizza()" id="spb">send</button>
+    </div>
+</div>    
+
+</body>
+</html>

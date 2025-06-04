@@ -1,0 +1,53 @@
+H:\webapi\lesson4\WebMyPizza\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\lesson4\WebMyPizza\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfoInputs.cache
+H:\webapi\lesson4\WebMyPizza\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfo.cs
+H:\webapi\lesson4\WebMyPizza\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.CoreCompileInputs.cache
+H:\webapi\lesson4\WebMyPizza\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.sourcelink.json
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfoInputs.cache
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfo.cs
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.CoreCompileInputs.cache
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.sourcelink.json
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.AssemblyReference.cache
+H:\webapi\lesson4\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.deps.json
+H:\webapi\lesson4\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.dll
+H:\webapi\lesson4\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.pdb
+H:\webapi\lesson4\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyModelsLib.dll
+H:\webapi\lesson4\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyModelsLib.pdb
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.CopyComplete
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.dll
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\refint\MyFileServiceLib.dll
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.pdb
+H:\webapi\lesson4\WebApi\MyFileServiceLib\obj\Debug\net8.0\ref\MyFileServiceLib.dll
+H:\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.deps.json
+H:\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.dll
+H:\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.pdb
+H:\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyModelsLib.dll
+H:\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyModelsLib.pdb
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.AssemblyReference.cache
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfoInputs.cache
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfo.cs
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.CoreCompileInputs.cache
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.sourcelink.json
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.dll
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\refint\MyFileServiceLib.dll
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.pdb
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\ref\MyFileServiceLib.dll
+H:\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.CopyComplete
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.deps.json
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.dll
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyFileServiceLib.pdb
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyModelsLib.dll
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\bin\Debug\net8.0\MyModelsLib.pdb
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.AssemblyReference.cache
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfoInputs.cache
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.AssemblyInfo.cs
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.csproj.CoreCompileInputs.cache
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.sourcelink.json
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileSe.37F8C0AA.Up2Date
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.dll
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\refint\MyFileServiceLib.dll
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\MyFileServiceLib.pdb
+E:\להעתיק 2605\finalApi\WebApi\MyFileServiceLib\obj\Debug\net8.0\ref\MyFileServiceLib.dll

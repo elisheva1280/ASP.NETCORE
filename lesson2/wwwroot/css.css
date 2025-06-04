@@ -1,0 +1,86 @@
+/* css.css */
+
+/* Body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #f8c8d8, #a4e0d4); /* Soft pastel gradient */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for pizza form */
+#pizzaFormContainer {
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent white */
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+    border: 2px solid #ff5733; /* Bright red border */
+}
+
+/* Form container styling */
+.from-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header styling */
+h1 {
+    color: #4A90E2; /* Blue color */
+    text-align: center;
+    background-color: #FFC107; /* Yellow background */
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Label styling */
+label {
+    margin: 10px 0 5px;
+}
+
+/* Input box styling */
+input {
+    padding: 10px;
+    border: 2px solid #58C8D3; /* Turquoise border */
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+/* Button styling */
+button {
+    background-color: #e74c3c; /* Red color */
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #c0392b; /* Darker red on hover */
+    transform: scale(1.05); /* Slightly grow on hover */
+}
+
+/* Adding images of pizza */
+.pizza-image {
+    width: 100%; /* Responsive */
+    height: auto;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+/* Accent styles */
+.accent {
+    background-color: #ffcc00; /* Yellow accent */
+    color: #000;
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}

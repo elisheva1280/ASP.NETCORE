@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "X5J+qf0FMyJOp/RY/zRppySNzsNru2j2N6xRc8J08rAqEUbbIRkol2cK+8oP9PdaezJY+hk8z9P4u51VS5ARHA==",
+  "dgSpecHash": "QLvhfzuEtTE=",
   "success": true,
-  "projectFilePath": "H:\\webapi\\lesson4\\WebMyPizza\\MyModelsLib\\MyModelsLib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\להעתיק 2605\\finalApi\\WebApi\\MyModelsLib\\MyModelsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

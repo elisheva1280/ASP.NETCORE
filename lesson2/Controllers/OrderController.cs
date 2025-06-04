@@ -1,7 +1,13 @@
 using System.Security.Cryptography;
 using Microsoft.AspNetCore.Mvc;
 using MyModelsLib.Interface;
+using MyModelsLib;
 namespace lesson2.Controllers;
+
+// using MyModelsLib;
+// using MyModelsLib.Interface;
+// using MyFileServiceLib.Interface;
+
 
 public class OrderController : BaseCcntroller
 {
@@ -25,4 +31,16 @@ public IActionResult OGetById(int id){
         return NotFound();
     }
      return Ok();
-}}
+}
+
+[Route("[action]/{id}/{nameOfCustumer}/{creditcard}")]
+[HttpPost]
+public IActionResult OPost(int id, string nameOfCustumer, string creditcardn,int cv,int ex){
+    var add=_o.SOPost(id,nameOfCustumer,creditcardn,cv,ex);
+    if (add){
+        return Ok();
+    }
+     return NotFound();
+}
+
+}

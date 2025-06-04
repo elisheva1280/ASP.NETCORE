@@ -8,12 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.4" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.9.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MyServiceLib\MyServiceLib.csproj" />
     <ProjectReference Include="..\MyModelsLib\MyModelsLib.csproj" />
+    <ProjectReference Include="..\MyFileServiceLib\MyFileServiceLib.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,16 +1,36 @@
 using System.Security.Cryptography;
 using Microsoft.AspNetCore.Mvc;
+using MyModelsLib;
 using MyModelsLib.Interface;
 namespace lesson2.Controllers;
+
+using Microsoft.AspNetCore.Authorization;
+using MyFileServiceLib;
+using  MyFileServiceLib.Interface;
+
 
 public class MyPizzaController : BaseCcntroller
 {
 
 IPizzaService _M;
-public MyPizzaController(IPizzaService p)
+
+public MyPizzaController(IPizzaService p,IFileService<MyPizza> f)
 {
-    _M = p;
+    _M = p; 
 }
+
+
+// [Route("[action]/{add}")]
+// [HttpPost]
+// public IActionResult Add(int id,bool isGlotan,string nameOfPizza){
+//     var PizzaAdd=_M.SAdd(id,isGlotan,nameOfPizza);
+//     if(!PizzaAdd){
+//        return NotFound();
+//     }
+//      return Ok();
+// }
+
+
 
 [Route("[action]/{id}")]
 [HttpGet]
@@ -27,7 +47,7 @@ public IActionResult GetById(int id){
      return Ok();
 }
 
-
+[Authorize(Policy ="Admin")]
 [Route("[action]")]
 [HttpPost]
 public IActionResult Post(string nameOfPizza,int id,bool glotan ){
@@ -61,5 +81,7 @@ public void Del(int id){
    _M.SDel(id);
   
 }
+
+
 }
 
